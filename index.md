@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Retrograde Analytics
 
-You can use the [editor on GitHub](https://github.com/Retrograde-Analytics/Retrograde-Analytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are a data research and analytics firm that perfroms data tasks and projects for nonprofit organizations and small businesses whose work benefits arts/culture, science, enviornmentalism, sustainability, civics, and education in order to harness the power of data for the greater good.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
