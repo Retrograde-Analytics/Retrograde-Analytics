@@ -4,6 +4,7 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 !!!
 
+<img src="national.png" alt="hi" class="inline"/>
 
 ### Markdown
 
@@ -13,6 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 ![MarineGEO circle logo](national.png "MarineGEO logo")
+
+<img src="national.png" alt="hi" class="inline"/>
 
 # Header 1
 ## Header 2
