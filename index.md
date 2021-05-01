@@ -6,7 +6,7 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 
 
-<a href="https://retrograde-analytics.github.io/Jazz-Funding/.html"> 
+<a href="https://retrograde-analytics.github.io/Jazz-Funding/"> 
   <img src="national.svg" alt="click here" class="inline"/>
 </a>
 
