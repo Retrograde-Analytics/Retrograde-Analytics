@@ -4,17 +4,21 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 !!!
 
+<img src="images/311.svg" alt="click here" class="inline"/>
+
+<img src="images/Juror.svg" alt="click here" class="inline"/>
+
 <img src="images/Coltrane.svg" alt="click here" class="inline"/>
 
 <a href="https://retrograde-analytics.github.io/Jazz-Funding/"> 
-  <img src="national.svg" alt="click here" class="inline"/>
+  <img src="images/national.svg" alt="click here" class="inline"/>
 </a>
 
 
 
 
 <a href="https://retrograde.shinyapps.io/Judges/">
-  <img src="PHL JUDGES MAP (Top 5 Wards).svg" alt="click here" class="inline"/>
+  <img src="images/PHL JUDGES MAP (Top 5 Wards).svg" alt="click here" class="inline"/>
 </a>
 
 ### Markdown
