@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![MarineGEO circle logo](national1.pdf "MarineGEO logo")
+![MarineGEO circle logo](national.svg "MarineGEO logo")
 
 # Header 1
 ## Header 2
