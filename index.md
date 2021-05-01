@@ -8,7 +8,7 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 
 
-<img src="PHL JUDGES MAP (TOP 5 WARDS.svg" alt="hi" class="inline"/>
+<img src="PHL JUDGES MAP (Top 5 Wards).svg" alt="hi" class="inline"/>
 
 
 ### Markdown
