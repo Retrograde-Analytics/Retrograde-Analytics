@@ -6,6 +6,11 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 <img src="national.svg" alt="hi" class="inline"/>
 
+
+
+<img src="PHL JUDGES MAP (TOP 5 WARDS.svg" alt="hi" class="inline"/>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -13,9 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![MarineGEO circle logo](national.png "MarineGEO logo")
 
-<img src="national.png" alt="hi" class="inline"/>
 
 # Header 1
 ## Header 2
