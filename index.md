@@ -11,7 +11,7 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 <a href="https://retrograde-analytics.github.io/311/"> 
   <img src="images/311.svg" alt="click here" class="inline"/>
 </a>
-</P
+</P>
 
 ## Juror Non-response Rates in PA by County Study
 
