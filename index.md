@@ -7,11 +7,14 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 
 ## 311 Calls in Philadelphia Study
-<P>
+<p style="line-height:200%">
+
+
+
 <a href="https://retrograde-analytics.github.io/311/"> 
   <img src="images/311.svg" alt="click here" class="inline"/>
 </a>
-</P>
+</p>
 
 ## Juror Non-response Rates in PA by County Study
 
