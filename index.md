@@ -5,7 +5,7 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 We specialize in:
 - data collection
 - network analysis
-- dashboard creation
+- interactive dashboard creation
 - customized research
 - predictive algorithms
 
