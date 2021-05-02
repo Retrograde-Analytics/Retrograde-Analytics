@@ -16,7 +16,7 @@ We specialize in:
 
 ## Judge Non-vote Rate in Philadelphia Study
 
-<a href="https://retrograde-analytics.github.io/Judges/">
+<a href="https://retrograde-analytics.github.io/PHL-Judges/">
   <img src="images/PHL JUDGES MAP (Top 5 Wards).svg" alt="click here" class="inline"/>
 </a>
 
