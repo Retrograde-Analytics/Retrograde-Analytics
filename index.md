@@ -1,6 +1,6 @@
 # Welcome to Retrograde Analytics
 
-We are a data research and analytics firm that perfroms data tasks and projects for nonprofit organizations and small businesses whose work benefits arts/culture, science, enviornmentalism, sustainability, civics, and education in order to harness the power of data for the greater good.
+We are a data research and analytics firm that perfroms data tasks and projects for nonprofit organizations and small businesses whose work benefits arts/culture, science, enviornmentalism, sustainability, civics, and/or education in order to harness the power of data for the greater good.
 
 We specialize in:
 - data collection
