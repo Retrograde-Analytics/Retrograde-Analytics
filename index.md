@@ -7,17 +7,23 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 
 ## 311 Calls in Philadelphia Study
+
 <a href="https://retrograde-analytics.github.io/311/"> 
   <img src="images/311.svg" alt="click here" class="inline"/>
 </a>
+
 ## Juror Non-response Rates in PA by County Study
-<a href="https://retrograde-analytics.github.io/Juror/"> 
+
+<a href="https://retrograde-analytics.github.io/PHL_Juror/"> 
   <img src="images/Juror.svg" alt="click here" class="inline"/>
 </a>
+
 ## Network Analysis of John Coltrane's Prestige Years
-<a href="https://retrograde-analytics.github.io/Coltrane/"> 
+
+<a href="https://retrograde.shinyapps.io/Coltrane/"> 
   <img src="images/Coltrane.svg" alt="click here" class="inline"/>
 </a>
+
 ## Jazz vs Classical Funding Study
 
 <a href="https://retrograde-analytics.github.io/Jazz-Funding/"> 
