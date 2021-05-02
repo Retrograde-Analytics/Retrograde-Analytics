@@ -3,21 +3,21 @@
 We are a data research and analytics firm that perfroms data tasks and projects for nonprofit organizations and small businesses whose work benefits arts/culture, science, enviornmentalism, sustainability, civics, and education in order to harness the power of data for the greater good.
 
 
-# Examples <br>
+# Examples
 
 
-## 311 Calls in Philadelphia Study <br>
-
-<img src="images/311.svg" alt="click here" class="inline"/>
-
+## 311 Calls in Philadelphia Study
+<a href="https://retrograde-analytics.github.io/311/"> 
+  <img src="images/311.svg" alt="click here" class="inline"/>
+</a>
 ## Juror Non-response Rates in PA by County Study
-
-<img src="images/Juror.svg" alt="click here" class="inline"/>
-
+<a href="https://retrograde-analytics.github.io/Juror/"> 
+  <img src="images/Juror.svg" alt="click here" class="inline"/>
+</a>
 ## Network Analysis of John Coltrane's Prestige Years
-
-<img src="images/Coltrane.svg" alt="click here" class="inline"/>
-
+<a href="https://retrograde-analytics.github.io/Coltrane/"> 
+  <img src="images/Coltrane.svg" alt="click here" class="inline"/>
+</a>
 ## Jazz vs Classical Funding Study
 
 <a href="https://retrograde-analytics.github.io/Jazz-Funding/"> 
