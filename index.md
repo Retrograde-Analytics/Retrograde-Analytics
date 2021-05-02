@@ -5,11 +5,12 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 
 ## Examples
 
-
+<style>
+  
+  
+</style>
 
 ### 311 Calls in Philadelphia Study
-
-
 
 <img src="images/311.svg" alt="click here" class="inline"/>
 
