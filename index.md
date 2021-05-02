@@ -7,6 +7,8 @@ We specialize in:
 - network analysis
 - dashboard creation
 - customized research
+- predictive algorithms
+
 
 
 # Examples
