@@ -5,6 +5,7 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 We specialize in:
 - data collection
 - network analysis
+- geospatial data
 - interactive dashboard creation
 - customized research
 - predictive algorithms
@@ -13,6 +14,12 @@ We specialize in:
 
 # Examples
 
+## Judge Non-vote Rate in Philadelphia Study
+
+<a href="https://retrograde.shinyapps.io/Judges/">
+  <img src="images/PHL JUDGES MAP (Top 5 Wards).svg" alt="click here" class="inline"/>
+</a>
+
 
 ## 311 Calls in Philadelphia Study
 
@@ -20,12 +27,6 @@ We specialize in:
   <img src="images/311.svg" alt="click here" class="inline"/>
 </a>
 
-
-## Juror Non-response Rates in PA by County Study
-
-<a href="https://retrograde-analytics.github.io/PHL_Juror/"> 
-  <img src="images/Juror.svg" alt="click here" class="inline"/>
-</a>
 
 ## Network Analysis of John Coltrane's Prestige Years
 
@@ -39,12 +40,14 @@ We specialize in:
   <img src="images/national.svg" alt="click here" class="inline"/>
 </a>
 
+## Juror Non-response Rates in PA by County Study
 
-## Judge Non-vote Rate in Philadelphia Study
-
-<a href="https://retrograde.shinyapps.io/Judges/">
-  <img src="images/PHL JUDGES MAP (Top 5 Wards).svg" alt="click here" class="inline"/>
+<a href="https://retrograde-analytics.github.io/PHL_Juror/"> 
+  <img src="images/Juror.svg" alt="click here" class="inline"/>
 </a>
+
+
+
 
 # Contact
 
