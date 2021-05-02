@@ -2,19 +2,22 @@
 
 We are a data research and analytics firm that perfroms data tasks and projects for nonprofit organizations and small businesses whose work benefits arts/culture, science, enviornmentalism, sustainability, civics, and education in order to harness the power of data for the greater good.
 
+We specialize in:
+- data collection
+- network analysis
+- dashboard creation
+- customized research
+
 
 # Examples
 
 
 ## 311 Calls in Philadelphia Study
-<p style="line-height:200%">
-
-
 
 <a href="https://retrograde-analytics.github.io/311/"> 
   <img src="images/311.svg" alt="click here" class="inline"/>
 </a>
-</p>
+
 
 ## Juror Non-response Rates in PA by County Study
 
@@ -40,4 +43,6 @@ We are a data research and analytics firm that perfroms data tasks and projects 
 <a href="https://retrograde.shinyapps.io/Judges/">
   <img src="images/PHL JUDGES MAP (Top 5 Wards).svg" alt="click here" class="inline"/>
 </a>
+
+# Contact
 
