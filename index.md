@@ -16,7 +16,6 @@ We specialize in:
 
 ## Arrests per Day in Philadelphia
 
-<a href="">
   <img src="Arrests per Day.svg" alt="click here" class="inline"/>
 </a>
 
