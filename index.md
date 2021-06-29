@@ -17,7 +17,7 @@ We specialize in:
 ## Arrests per Day in Philadelphia
 
 <a href="https://retrograde.shinyapps.io/Philly_Arrest_Data/">
-  <img src="Arrests per Day.svg" alt="click here" class="inline"/>
+  <img src="images/Arrests per Day.svg" alt="click here" class="inline"/>
 </a>
 
 ## Judge Non-vote Rate in Philadelphia Study
