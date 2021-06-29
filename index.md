@@ -14,6 +14,12 @@ We specialize in:
 
 # Examples
 
+## Arrests per Day in Philadelphia
+
+<a href="">
+  <img src="Arrests per Day.svg" alt="click here" class="inline"/>
+</a>
+
 ## Judge Non-vote Rate in Philadelphia Study
 
 <a href="https://retrograde-analytics.github.io/PHL-Judges/">
