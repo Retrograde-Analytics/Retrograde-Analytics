@@ -50,4 +50,4 @@ We specialize in:
 
 # Contact
 
-Our team can be reached at retrogradeanalytics@gmail.com
+Our team can be reached at retrog.analytics@gmail.com
