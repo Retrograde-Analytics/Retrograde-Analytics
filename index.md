@@ -14,23 +14,11 @@ We specialize in:
 
 # Examples
 
-## Arrests per Day in Philadelphia
-
-<a href="https://retrograde.shinyapps.io/Philly_Arrest_Data/">
-  <img src="images/Arrests per Day.svg" alt="click here" class="inline"/>
-</a>
 
 ## Judge Non-vote Rate in Philadelphia Study
 
 <a href="https://retrograde-analytics.github.io/PHL-Judges/">
   <img src="images/PHL JUDGES MAP (Top 5 Wards).svg" alt="click here" class="inline"/>
-</a>
-
-
-## 311 Calls in Philadelphia Study
-
-<a href="https://retrograde-analytics.github.io/311/"> 
-  <img src="images/311.svg" alt="click here" class="inline"/>
 </a>
 
 
@@ -52,6 +40,11 @@ We specialize in:
   <img src="images/Juror.svg" alt="click here" class="inline"/>
 </a>
 
+## 311 Calls in Philadelphia Study
+
+<a href="https://retrograde-analytics.github.io/311/"> 
+  <img src="images/311.svg" alt="click here" class="inline"/>
+</a>
 
 
 
